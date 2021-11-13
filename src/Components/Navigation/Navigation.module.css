@@ -1,0 +1,20 @@
+.ActiveLink {
+  color: rgb(17, 94, 158);
+  margin: 0 10px 0;
+}
+
+.Link {
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 50px;
+  font-size: medium;
+  padding: 1px 3px 1px 3px;
+  background-color: rgb(207, 207, 207);
+}
+
+.list {
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  font-size: 26px;
+}
